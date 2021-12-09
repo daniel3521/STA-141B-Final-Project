@@ -4,7 +4,7 @@ Group Members: Daniel Woo, Henman Tan, Junxi Chen, Shanshan Chen, Sarah Shaik
 
 ### Introduction
 
-This report uses 5 of the 7 categories that are related to the lessons in Fall 2021 STA-141B taught by Professor Andrew Farris. Categories that will be excluded are: 3. "Scientific programming, custom algorithms, and numpy use" and 7. "Data Storage".
+In this project we are going to look at the trends in the housing market during COVID years 2020-present and analyze how COVID has affected the housing market all over the U.S. We analyze trends for big and small cities and also compare home purchase to rental choice. This report uses 5 of the 7 categories that are related to the lessons in Fall 2021 STA-141B taught by Professor Andrew Farris. Categories that will be included are: 1. "Project organization, writeup readability, and overall conclusions", 2. "Code quality, readability, and efficiency", 4. "Data munging", 5. "Data visualization", 6. "Data extraction". Categories that will be excluded are: 3. "Scientific programming, custom algorithms, and numpy use" and 7. "Data Storage".
 
 
 ### Data 
@@ -29,7 +29,9 @@ The other file in the zipped folder is a notebook folder containing a Jupyter no
 The notebook can be found here: https://github.com/daniel3521/STA-141B-Final-Project/blob/main/notebook/STA141B-Final-Project.ipynb
 
 
+### Conclusion
 
+Our analysis shows that the COVID pandemic has been drastically changing our housing market which we haven't seen since the 2008 recession. Urban centers and suburban metro areas have been affected differently but both show an increase in home values after the pandemic. This increase in turn has made it better to rent instead of buy across different metro areas in our data. To summarize, we've webscraped data from Zillow, analyzed/visualized our data, and have seen the drastic changes in the housing market post-pandemic.  
 
 
 
